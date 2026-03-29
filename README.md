@@ -72,12 +72,8 @@ Maternal & Paternal Education, Wealth Index, Place of Delivery
 
 ---
 
-## 👥 Contributors
+## Author 
 - Ayesha Shaikh
-- Krutika Kondagule
-- Siddharth Gaikwad
-- Faiza Feroz
-- Aditi Pratapwar
-- Sakshi Khaire
+
 
 **Supervised by:** Dr. Richa Panchgaur | Vishwakarma University, Pune
